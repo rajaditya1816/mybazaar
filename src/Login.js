@@ -37,27 +37,24 @@ function Login() {
   return (
     <div className="login">
       <Link to="/">
-        <img
-          className="login__logo"
-          src={image}
-        />
+        <img className="login__logo" src={image} />
       </Link>
 
       <div className="login__container">
         <h1>Sign-in</h1>
 
         <form>
-          <h5>E-mail</h5>
           <input
             type="text"
+            placeholder="Enter Your Email"
             value={email}
             onChange={(e) => setEmail(e.target.value)}
           />
 
-          <h5>Password</h5>
           <input
             type="password"
             value={password}
+            placeholder="Enter Your Passward"
             onChange={(e) => setPassword(e.target.value)}
           />
 
