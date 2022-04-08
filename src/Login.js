@@ -74,7 +74,7 @@ function Login() {
         </p>
 
         <button onClick={register} className="login__registerButton">
-          Create your Amazon Account
+          Create your 'MY BAZAAR' Account
         </button>
       </div>
     </div>
