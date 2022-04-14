@@ -27,12 +27,13 @@
   padding: 10px;
   border: none;
   width: 100%;
+  background-color: lightgray;
 }
 
 .header__searchIcon {
   padding: 5px;
   height: 22px !important;
-  background-color: #cd9042;
+  background-color: white;
 }
 
 .header__optionLineOne {
