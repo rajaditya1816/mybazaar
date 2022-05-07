@@ -18,6 +18,13 @@ function Home() {
             image="https://images-na.ssl-images-amazon.com/images/I/51Zymoq7UnL._SX325_BO1,204,203,200_.jpg"
           />
           <Product
+            id="49538094213"
+            title="GoSriKi Women's Cotton Straight Kurta with Palazzo & Dupatta"
+            price={699.0}
+            rating={4}
+            image="https://m.media-amazon.com/images/I/61yfVFby5dL._UY741_.jpg"
+          />
+          <Product
             id="4953809421"
             title="Kenwood kMix Stand Mixer for Baking, Stylish Kitchen Mixer with K-beater, Dough Hook and Whisk, 5 Litre Glass Bowl"
             price={239.0}
