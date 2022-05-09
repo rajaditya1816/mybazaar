@@ -1,3 +1,69 @@
-.about{
-    margin-top: 20px;
+.about {
+  margin-top: 5px;
+  background-color: bisque;
+}
+.image {
+  max-width: 70%;
+  margin-left: auto;
+  margin-right: auto;
+  border: solid 2px black;
+}
+.head {
+  text-align: center;
+  text-decoration: dashed;
+  font-style: italic;
+}
+
+.first {
+  text-align: center;
+}
+.sections {
+  display: flex;
+  margin-left: 20px;
+  margin-right: 25px;
+  margin-top: 20px;
+  margin-bottom: 10px;
+  border: solid2px black;
+}
+.ek {
+  text-align: center;
+}
+.ek > p {
+  font-style: italic;
+  font-size: larger;
+  text-align: center;
+}
+.do {
+  text-align: center;
+}
+.do > p {
+  font-style: italic;
+  font-size: larger;
+  text-align: center;
+}
+.teen {
+  text-align: center;
+}
+.teen > p {
+  font-style: italic;
+  font-size: larger;
+  text-align: center;
+}
+.char {
+  text-align: center;
+}
+.char > p {
+  font-style: italic;
+  font-size: larger;
+  text-align: center;
+}
+.develop {
+  text-align: center;
+  margin-top: 5px;
+  margin-bottom: 50px;
+}
+.develop > a > links {
+  display: inline-flex;
+  margin-left: auto;
+  margin-right: auto
 }
